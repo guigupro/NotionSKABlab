@@ -18,7 +18,7 @@ export const About = () => {
           <div className="-mx-4 flex flex-wrap items-center">
 
             {/* 左侧的文字说明板块 */}
-            <div className="w-full px-4 lg:w-1/2">
+            <div className="w-full px-4 lg:w-1/5">
               <div className="mb-12 max-w-[540px] lg:mb-0">
                 <h2
                   className="mb-5 text-3xl font-bold leading-tight text-dark dark:text-white sm:text-[40px] sm:leading-[1.2]"
@@ -40,9 +40,9 @@ export const About = () => {
             </div>
 
             {/* 右侧的图片海报 */}
-            <div className="w-full px-4 lg:w-1/2">
+            <div className="w-full px-4 lg:w-4/5">
               <div className="-mx-2 flex flex-wrap sm:-mx-4 lg:-mx-2 xl:-mx-4">
-                <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
+                <div className="w-full px-2 sm:w-3/4 sm:px-4 lg:px-2 xl:px-4">
                   <div
                     className="mb-4 sm:mb-8 sm:h-[400px] md:h-[540px] lg:h-[400px] xl:h-[500px]"
                   >
@@ -54,7 +54,7 @@ export const About = () => {
                   </div>
                 </div>
 
-                <div className="w-full px-2 sm:w-1/2 sm:px-4 lg:px-2 xl:px-4">
+                <div className="w-full px-2 sm:w-1/4 sm:px-4 lg:px-2 xl:px-4">
                   <div
                     className="mb-4 sm:mb-8 sm:h-[220px] md:h-[346px] lg:mb-4 lg:h-[225px] xl:mb-8 xl:h-[310px]"
                   >
