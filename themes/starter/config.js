@@ -38,34 +38,34 @@ const CONFIG = {
   STARTER_FEATURE_1_TITLE_1: '聚焦麻醉与脑功能调控', // 特性1
   STARTER_FEATURE_1_TEXT_1: '以“麻醉与脑功能调控”为研究核心，开展麻醉机制与脑功能、脆弱脑与麻醉、麻醉深度监测与精准麻醉、人工智能与麻醉优化的基础和临床研究，产出具有国际影响力的重大成果。', // 特性1
   STARTER_FEATURE_1_BUTTON_TEXT: '了解更多', // 特性1
-  STARTER_FEATURE_1_BUTTON_URL: 'https://www.skablab.top/article/info', // 特性1
+  STARTER_FEATURE_1_BUTTON_URL: 'https://www.skablab.top/info', // 特性1
 
   STARTER_FEATURE_2_TITLE_1: '促进科研成果的有效转化', // 特性2
   STARTER_FEATURE_2_TEXT_1: '解决影响麻醉手术安全与术后中远期转归的诸多科学问题，实现精准麻醉。', // 特性2
   STARTER_FEATURE_2_BUTTON_TEXT: '了解更多', // 特性2
-  STARTER_FEATURE_2_BUTTON_URL: 'https://www.skablab.top/article/info', // 特性2
+  STARTER_FEATURE_2_BUTTON_URL: 'https://www.skablab.top/info', // 特性2
 
   STARTER_FEATURE_3_TITLE_1: '多学科交叉大型实验平台建设', // 特性3
   STARTER_FEATURE_3_TEXT_1: '建设和进一步发展对社会高度开放的多学科交叉大型实验平台，为麻醉学和神经科学的发展提供有力支撑。', // 特性3
   STARTER_FEATURE_3_BUTTON_TEXT: '了解更多', // 特性3
-  STARTER_FEATURE_3_BUTTON_URL: 'https://www.skablab.top/article/info', // 特性3
+  STARTER_FEATURE_3_BUTTON_URL: 'https://www.skablab.top/info', // 特性3
 
   STARTER_FEATURE_4_TITLE_1: '依托同济大学和上海市政府', // 特性4
   STARTER_FEATURE_4_TEXT_1: '依托同济大学和上海市政府重大科技基础设施和技术优势，开展具有特色的多学科交叉前沿研究。聚集一支集麻醉学、神经科学、材料学、人工智能等领域相关学科前沿人才的交叉学科团队；培养具有国际影响力的中青年领军人才，向社会传播医学知识和科学精神。', // 特性4
   STARTER_FEATURE_4_BUTTON_TEXT: '了解更多', // 特性4
-  STARTER_FEATURE_4_BUTTON_URL: 'https://www.skablab.top/article/info', // 特性4
+  STARTER_FEATURE_4_BUTTON_URL: 'https://www.skablab.top/info', // 特性4
 
   //STARTER_FEATURE_5_TITLE_1: '培养交叉学科团队', // 特性5
   //STARTER_FEATURE_5_TEXT_1: '聚集一支集麻醉学、神经科学、材料学、人工智能等领域相关学科前沿人才的交叉学科团队；培养具有国际影响力的中青年领军人才，向社会传播医学知识和科学精神。', // 特性5
   //STARTER_FEATURE_5_BUTTON_TEXT: '了解更多', // 特性5
-  //STARTER_FEATURE_5_BUTTON_URL: 'https://www.skablab.top/article/info', // 特性5
+  //STARTER_FEATURE_5_BUTTON_URL: 'https://www.skablab.top/info', // 特性5
 
   // 首页ABOUT区块
   STARTER_ABOUT_ENABLE: true, // ABOUT区块开关
   STARTER_ABOUT_TITLE: '组织架构',
   STARTER_ABOUT_TEXT: '',
   STARTER_ABOUT_BUTTON_TEXT: '了解更多',
-  STARTER_ABOUT_BUTTON_URL: 'https://www.skablab.top/article/info',
+  STARTER_ABOUT_BUTTON_URL: 'https://www.skablab.top/info',
   STARTER_ABOUT_IMAGE_1: '/images/starter/zzjgM.png',
   STARTER_ABOUT_IMAGE_2: '/images/starter/about/about-image-02.jpg',
   STARTER_ABOUT_TIPS_1: '7000+',
@@ -85,7 +85,7 @@ const CONFIG = {
   STARTER_PRICING_1_HEADER: '类型',
   STARTER_PRICING_1_FEATURES: 'A类,B类,C类', // 英文逗号隔开
   STARTER_PRICING_1_BUTTON_TEXT: '了解更多',
-  STARTER_PRICING_1_BUTTON_URL: 'https://www.skablab.top/article/join',
+  STARTER_PRICING_1_BUTTON_URL: 'https://www.skablab.top/join',
 
   STARTER_PRICING_2_TAG: '推荐',
   STARTER_PRICING_2_TITLE: '专业技术骨干',
@@ -95,7 +95,7 @@ const CONFIG = {
   STARTER_PRICING_2_HEADER: '类型',
   STARTER_PRICING_2_FEATURES: 'D类,E类', // 英文逗号隔开
   STARTER_PRICING_2_BUTTON_TEXT: '了解更多',
-  STARTER_PRICING_2_BUTTON_URL: 'https://www.skablab.top/article/join',
+  STARTER_PRICING_2_BUTTON_URL: 'https://www.skablab.top/join',
 
   STARTER_PRICING_3_TITLE: '规培青年人才',
   STARTER_PRICING_3_PRICE: '6-15',
@@ -104,7 +104,7 @@ const CONFIG = {
   STARTER_PRICING_3_HEADER: '类型',
   STARTER_PRICING_3_FEATURES: '初级,中级', // 英文逗号隔开
   STARTER_PRICING_3_BUTTON_TEXT: '了解更多',
-  STARTER_PRICING_3_BUTTON_URL: 'https://www.skablab.top/article/join',
+  STARTER_PRICING_3_BUTTON_URL: 'https://www.skablab.top/join',
 
   // 首页用户测评区块
   STARTER_TESTIMONIALS_ENABLE: true, // 测评区块开关
@@ -250,8 +250,8 @@ const CONFIG = {
       LINK_GROUP: [
         { TITLE: '官方主页', URL: '/#home' },
         { TITLE: '操作文档', URL: 'https://www.skablab.top/archive' },
-        { TITLE: '帮助支持', URL: 'https://www.skablab.top/article/help' },
-        { TITLE: '合作申请', URL: 'https://www.skablab.top/article/collaborate' }
+        { TITLE: '帮助支持', URL: 'https://www.skablab.top/help' },
+        { TITLE: '合作申请', URL: 'https://www.skablab.top/collaborate' }
       ]
     },
     {
@@ -280,13 +280,13 @@ const CONFIG = {
   STARTER_FOOTER_BLOG_LATEST_TITLE: '最新文章',
 
   STARTER_FOOTER_PRIVACY_POLICY_TEXT: '隐私政策',
-  STARTER_FOOTER_PRIVACY_POLICY_URL: 'https://www.skablab.top/article/privacy-policy',
+  STARTER_FOOTER_PRIVACY_POLICY_URL: 'https://www.skablab.top/privacy-policy',
 
   STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_TEXT: '法律声明',
-  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: 'https://www.skablab.top/article/legacy-notice',
+  STARTER_FOOTER_PRIVACY_LEGAL_NOTICE_URL: 'https://www.skablab.top/legacy-notice',
 
   STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_TEXT: '服务协议',
-  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: 'https://www.skablab.top/article/terms-of-use',
+  STARTER_FOOTER_PRIVACY_TERMS_OF_SERVICE_URL: 'https://www.skablab.top/terms-of-use',
 
   // 404页面的提示语
   STARTER_404_TITLE: '我们似乎找不到您要找的页面。',
