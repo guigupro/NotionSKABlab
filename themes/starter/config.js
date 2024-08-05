@@ -265,6 +265,7 @@ const CONFIG = {
     {
       TITLE: '科研平台',
       LINK_GROUP: [
+        { TITLE: '共享仪器平台', URL: 'https://fwcs.linkingcloud.cn/account/loginin/c189be60-9c9b-4107-b250-c8e6eeda47a0?nextUrl=https%3A%2F%2Ffwcs.linkingcloud.cn%2Fshared%2Fdevicebooking%2Findex.html%2F%23%2Fpages%2Flogin%3ForgId%3D1599956638768902145' },
         { TITLE: '双膜片钳电生理平台', URL: '' },
         { TITLE: '小动物手术麻醉监护平台', URL: '' },
         { TITLE: '显微成像平台', URL: '' },
